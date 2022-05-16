@@ -20,3 +20,21 @@ No example commands to execute the code, just run the notebook
 
 ## Results (including charts/tables) and your observations  
 Results and observations are available in the notebook and it would have been redundant to put them here all over again
+
+
+
+## References
+Impact of JPEG 2000 compression on deep convolutional neural networks for metastatic cancer detection in histopathological images
+https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-6/issue-02/027501/Impact-of-JPEG-2000-compression-on-deep-convolutional-neural-networks/10.1117/1.JMI.6.2.027501.full?SSO=1
+
+Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression
+https://www.semanticscholar.org/paper/Keeping-the-Bad-Guys-Out%3A-Protecting-and-Deep-with-Das-Shanbhogue/8ab5d59c6534039e6854cdb60a8519e0e96bde03
+
+Difference between JPEG and PNG
+https://www.tutorialspoint.com/difference-between-jpeg-and-png#:~:text=JPEG%20and%20PNG%20both%20are,is%20present%20in%20PNG%20format.
+
+Does repeated JPEG compression ruin images?
+https://blog.kasson.com/the-last-word/does-repeated-jpeg-compression-ruin-images/
+
+Compression in the ImageNet Dataset
+https://towardsdatascience.com/compression-in-the-imagenet-dataset-34c56d14d463
